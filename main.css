@@ -1,0 +1,16 @@
+#mycss {
+    width: 500px;
+	height: 500px;
+	fill: red; 
+    stroke: black; 
+    stroke-width: 5%; 
+    stroke-linejoin: round; 
+
+}
+
+#mycss:hover { 
+    stroke: black; 
+    fill: white; 
+ } 
+
+
